@@ -207,6 +207,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+<<<<<<< HEAD
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -261,6 +262,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+=======
+            "bgColor": "#37383e",
+>>>>>>> parent of 7770ab8... 222
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.3"
@@ -422,6 +426,7 @@
           },
           "media1": {
             "image": {
+<<<<<<< HEAD
               "src": "@PROJECT_PATH@/assets/images/coming-soon-2550190-1280-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
@@ -493,10 +498,26 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+=======
+              "src": "images/footer-logo.png",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+>>>>>>> parent of 7770ab8... 222
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
+<<<<<<< HEAD
           "_name": "features1",
           "_anchor": "features1-e",
           "_styles": {
@@ -592,6 +613,10 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-g"
+=======
+          "_name": "contacts1",
+          "_anchor": "contacts1-4"
+>>>>>>> parent of 7770ab8... 222
         }
       ]
     }
