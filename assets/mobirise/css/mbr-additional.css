@@ -2,20 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #dropdown-menu-2 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -36,13 +22,10 @@
 #dropdown-menu-2 .navbar-toggler {
   color: #8f99af;
 }
-#dropdown-menu-2 .btn {
-  font-family: 'Lato', sans-serif;
-}
 #header1-3 H1 {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
-  font-size: 46px;
+  font-size: 36px;
 }
 #header1-3 P {
   color: #ffffff;
@@ -52,6 +35,7 @@
 #header1-3 .btn {
   font-family: 'Lato', sans-serif;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 #header3-c H3 {
   font-family: 'Lato', sans-serif;
@@ -102,11 +86,13 @@
 #features1-e P {
   font-family: 'Lato', sans-serif;
   text-align: center;
+=======
+#contacts1-4 STRONG {
+  color: #8f99af;
+>>>>>>> parent of 83511e5... 3333
 }
-#social-buttons2-a .mbr-section-title {
-  color: #5b6271;
-  font-family: 'Lato', sans-serif;
-  font-size: 36px;
+#contacts1-4 P {
+  color: #a7b0c3;
 }
 =======
 >>>>>>> parent of 7770ab8... 222
