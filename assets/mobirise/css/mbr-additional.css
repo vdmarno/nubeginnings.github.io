@@ -2,6 +2,23 @@
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> parent of 585f498... failclear
 #dropdown-menu-2 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -22,10 +39,20 @@
 #dropdown-menu-2 .navbar-toggler {
   color: #8f99af;
 }
+<<<<<<< HEAD
 #header1-3 H1 {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 36px;
+=======
+#dropdown-menu-2 .btn {
+  font-family: 'Lato', sans-serif;
+}
+#header1-3 H1 {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 46px;
+>>>>>>> parent of 585f498... failclear
 }
 #header1-3 P {
   color: #ffffff;
@@ -37,6 +64,9 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 585f498... failclear
 #header3-c H3 {
   font-family: 'Lato', sans-serif;
   font-size: 25px;
@@ -86,6 +116,7 @@
 #features1-e P {
   font-family: 'Lato', sans-serif;
   text-align: center;
+<<<<<<< HEAD
 =======
 #contacts1-4 STRONG {
   color: #8f99af;
@@ -96,3 +127,11 @@
 }
 =======
 >>>>>>> parent of 7770ab8... 222
+=======
+}
+#social-buttons2-a .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+}
+>>>>>>> parent of 585f498... failclear

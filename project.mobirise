@@ -6,11 +6,23 @@
       "name": "purity",
       "title": "PurityM",
       "styling": {},
+<<<<<<< HEAD
       "additionalSetColors": []
     },
     "versionFirst": "4.2.4",
     "uniqCompNum": 5,
     "versionPublish": "4.2.4",
+=======
+      "additionalSetColors": [
+        "#5b6271",
+        "#142c93",
+        "#363941"
+      ]
+    },
+    "versionFirst": "4.2.4",
+    "uniqCompNum": 17,
+    "versionPublish": "4.3.0",
+>>>>>>> parent of 585f498... failclear
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -43,6 +55,13 @@
             },
             ".navbar-toggler": {
               "color": "#8f99af"
+<<<<<<< HEAD
+=======
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+>>>>>>> parent of 585f498... failclear
             }
           },
           "_params": {
@@ -94,7 +113,11 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
+<<<<<<< HEAD
             "overlayOpacity": "0.4"
+=======
+            "overlayOpacity": "0.3"
+>>>>>>> parent of 585f498... failclear
           },
           "title": "NU BEGINNINGS",
           "text": "CAREER SPECIALISTS - DO WHAT YOU LOVE<br><br>I WANT TO FIND",
@@ -110,7 +133,11 @@
               "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+<<<<<<< HEAD
               "font-size": "36px"
+=======
+              "font-size": "46px"
+>>>>>>> parent of 585f498... failclear
             },
             "P": {
               "color": "#ffffff",
@@ -126,14 +153,90 @@
         },
         {
           "_params": {
+<<<<<<< HEAD
             "paddingTop": "2",
             "paddingBottom": 3,
+=======
+            "showMeta": false
+          },
+          "title": "We take pride in matching outstanding talent with dream positions",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/city-2096093-1920x1279.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#142c93",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Top Jobs",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BROWSE ALL JOBS</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7",
+          "_styles": {
+            "H2": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px",
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+>>>>>>> parent of 585f498... failclear
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 585f498... failclear
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -188,9 +291,12 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+<<<<<<< HEAD
 =======
             "bgColor": "#37383e",
 >>>>>>> parent of 7770ab8... 222
+=======
+>>>>>>> parent of 585f498... failclear
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.3"
@@ -353,6 +459,9 @@
           "media1": {
             "image": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 585f498... failclear
               "src": "@PROJECT_PATH@/assets/images/coming-soon-2550190-1280-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
@@ -382,6 +491,7 @@
               "link": "",
               "size": 0
             }
+<<<<<<< HEAD
 =======
             "bgColor": "#ffffff",
             "overlay": true,
@@ -409,6 +519,38 @@
             }
           },
 <<<<<<< HEAD
+=======
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coming-soon-2550190-1280-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+>>>>>>> parent of 585f498... failclear
           "title1": "Blog 1",
           "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud ",
           "title2": "Blog 2",
@@ -421,6 +563,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+<<<<<<< HEAD
 =======
               "src": "images/footer-logo.png",
               "width": 265,
@@ -441,10 +584,13 @@
           "text2": "<strong>Contacts</strong><br>\nEmail: support@examplee.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<br><ul><li><br></li></ul>",
 >>>>>>> parent of 83511e5... 3333
+=======
+>>>>>>> parent of 585f498... failclear
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           "_name": "features1",
@@ -490,6 +636,20 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "36px"
+=======
+          "_name": "features1",
+          "_anchor": "features1-e",
+          "_styles": {
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#142c93"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+>>>>>>> parent of 585f498... failclear
             }
           }
         },
@@ -543,12 +703,45 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-g"
+<<<<<<< HEAD
 =======
           "_name": "contacts1",
           "_anchor": "contacts1-4"
 >>>>>>> parent of 7770ab8... 222
 =======
 >>>>>>> parent of 83511e5... 3333
+=======
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#363941",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-a",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "36px"
+            }
+          }
+>>>>>>> parent of 585f498... failclear
         }
       ]
     }
