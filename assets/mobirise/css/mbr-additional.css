@@ -2,6 +2,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #dropdown-menu-2 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -22,10 +36,13 @@
 #dropdown-menu-2 .navbar-toggler {
   color: #8f99af;
 }
+#dropdown-menu-2 .btn {
+  font-family: 'Lato', sans-serif;
+}
 #header1-3 H1 {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
-  font-size: 36px;
+  font-size: 46px;
 }
 #header1-3 P {
   color: #ffffff;
@@ -35,9 +52,58 @@
 #header1-3 .btn {
   font-family: 'Lato', sans-serif;
 }
-#contacts1-4 STRONG {
-  color: #8f99af;
+#header3-c H3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
 }
-#contacts1-4 P {
-  color: #a7b0c3;
+#msg-box2-7 H2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box2-7 .btn {
+  font-family: 'Lato', sans-serif;
+}
+#content4-8 H4 {
+  font-family: 'Lato', sans-serif;
+  color: #142c93;
+}
+#content4-8 P {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+#msg-box2-9 H2 {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+  text-align: left;
+}
+#msg-box2-9 .btn {
+  font-family: 'Lato', sans-serif;
+}
+#testimonials1-b .mbr-section-title {
+  color: #5b6271;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box2-d H2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#msg-box2-d .btn {
+  font-family: 'Lato', sans-serif;
+}
+#features1-e H4 {
+  font-family: 'Lato', sans-serif;
+  color: #142c93;
+}
+#features1-e P {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+#social-buttons2-a .mbr-section-title {
+  color: #5b6271;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
 }
